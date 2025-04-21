@@ -174,7 +174,7 @@ elif page == "About":
     - Greeshma
 
     ---
-    📂 **Repository**: [GitHub Link](https://github.com/jaya17op/Lane-Detection)
+    📂 **Repository**: [GitHub Link](https://github.com/jaya17op/LaneDetectionDIP)
     """)
 
     # st.image("data/sample_output.jpg", caption="Sample Lane Detection Output", use_column_width=True)
