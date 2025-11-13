@@ -1,10 +1,4 @@
 streamlit
-<<<<<<< HEAD
-opencv-python
-numpy
-=======
-opencv-python-headless
-numpy
-matplotlib
 streamlit-option-menu
->>>>>>> d177df661e6d13f59b77f40a92b4a21646660bd2
+numpy
+opencv-python-headless
